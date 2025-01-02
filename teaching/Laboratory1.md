@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics@Unimib/Laboratory1
+title: Laboratory1
 description: >
   Laboratory 1 teaching activity
 hide_description: true
