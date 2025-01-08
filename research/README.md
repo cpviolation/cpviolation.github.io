@@ -17,7 +17,7 @@ permalink: /research/
 {:.related-posts.faded}
 * [LFV]{:.heading.flip-title} --- Search for the elusive $\tau\to\mu\mu\mu$ decay
 {:.related-posts.faded}
-* [Vub]{:.heading.flip-title} --- Precise measurement of $V_{ub}$ Cabibbo-Kobayashi-Maskawa matrix element
+* [Vub]{:.heading.flip-title} --- Precise measurement of $$ V_{ub} $$ Cabibbo-Kobayashi-Maskawa matrix element
 {:.related-posts.faded}
 
 ## DRD4
