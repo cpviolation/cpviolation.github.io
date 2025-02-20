@@ -16,7 +16,7 @@ sitemap: false
 ## Master Students
 
 * [Pietrzyk, Guillaume]() --- Search for CP violation in the angular distributions of $$ D^0 \to K^+K^−\pi^+\pi^− $$ (2017).
-* [Valente, Marco]() --- Charm mixing and CP violation in $$ D^0 \to K^0_SK^+K^ $$ (2016).
+* [Valente, Marco]() --- Charm mixing and CP violation in $$ D^0 \to K^0_S K^+K^- $$ (2016).
 * [Mesman, Jesse]() --- Branching fraction measurement of the $$ B^0_s \to D^0K^0_S $$ decay (2013).
 
 ## Bachelor Students
