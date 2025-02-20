@@ -15,7 +15,7 @@ permalink: /research/
 {:.related-posts.faded}
 * [Spectroscopy]{:.heading.flip-title} --- Filling the gaps in the charm-strange mesons excitations spectrum
 {:.related-posts.faded}
-* [LFV]{:.heading.flip-title} --- Search for the elusive $\tau\to\mu\mu\mu$ decay
+* [LFV]{:.heading.flip-title} --- Search for the elusive $$ \tau\to\mu\mu\mu $$ decay
 {:.related-posts.faded}
 * [Vub]{:.heading.flip-title} --- Precise measurement of $$ V_{ub} $$ Cabibbo-Kobayashi-Maskawa matrix element
 {:.related-posts.faded}
