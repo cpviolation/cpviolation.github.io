@@ -15,3 +15,8 @@ and I later extended my interests to the quantum mechanical phenomenon of $$ D^0
 ## $$ D^0 $$ Oscillations and CP violation with $$ D^0 \to K^0_S h^+h^- $$ decays
 
 I am currently working on the measurement of the mixing and CP violation parameters in the decay $$ D^0 \to K^0_S h^+h^- $$, where $$ h $$ can be either a kaon or a pion. This decay is particularly interesting because it allows us to study both mixing and CP violation in a single decay channel. The analysis is performed using data collected by the LHCb experiment at CERN.
+
+## Search for CP violation in multibody $$ D^0 $$ decays
+
+Multibody hadronic decays of $$ D^0 $$ mesons are a promising place to search for CP violation thanks to their rich resonant structure and relative abundance.
+I extensively studied and developed the technique of triple product asymmetries obtaining the most accurate CP searches for $$ D^0 \to K^+K^-\pi^+\pi^- $$ decays.
