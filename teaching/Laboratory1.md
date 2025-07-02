@@ -14,11 +14,11 @@ Since 2019 I am teacher for the 1th year physics laboratory course for the bache
 - the verification of the Coulomb law with a torsion balance
 - the verification of the law of perfect gases
 - the measurement of the viscosity of a fluid
-- the charachterisation of a damped harmonic oscillator with a forced oscillation
+- the characterization of a damped harmonic oscillator with a forced oscillation
 - the verification of Bernoulli's law with a Venturi tube
 - the verification of momentum conservation in a collision
 - the verification of Hooke's law with a spring
-- the charachterisation of the propagation of a wave in a string
+- the characterization of the propagation of a wave in a string
 - the verification of the law of refraction with a prism
 - the verification of the laws of calorimetry
 
