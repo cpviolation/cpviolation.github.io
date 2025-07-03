@@ -28,6 +28,10 @@ The Run 2 analysis was paused due to challenges in modeling the detector accepta
 
 Multibody hadronic decays of $$ D^0 $$ mesons provide a promising environment for the search for CP violation, owing to their rich resonant structure and relatively high branching fractions. I have extensively studied and developed the use of **triple product asymmetries** as a tool to probe CP violation in such decays. In particular, my work on the decay $$ D^0 \to K^+K^-\pi^+\pi^- $$ has led to the most precise CP violation search in this channel to date [4].
 
+I have also developed the most precise amplitude model of the $$ D^0 \to K^+K^-\pi^+\pi^- $$ decay to date [5], and carried out a detailed search for CP violation in the amplitude distributions.
+
+Thanks to the significantly larger signal yields collected by the LHCb experiment during Run 2 and Run 3 compared to Run 1, these studies now benefit from enhanced sensitivity. Furthermore, the search for CP violation can be extended to the more abundant $$ D^0 \to \pi^+\pi^-\pi^+\pi^- $$ decay channel. The adoption of the new software trigger in Run 3 has also led to an improved acceptance profile, making this analysis particularly promising and well-suited for Master's and PhD thesis projects.
+
 
 ## Bibliography
 
@@ -38,3 +42,5 @@ Multibody hadronic decays of $$ D^0 $$ mesons provide a promising environment fo
 [3] [Observation of the Mass Difference between Neutral Charm-Meson Eigenstates](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.111801) (2021).
 
 [4] [Search for CP violation using T-odd correlations in $$ D^0 \to K^+K^-\pi^+\pi^- $$ decays](https://doi.org/10.1007/JHEP10(2014)005) (2014).
+
+[5] [Search for CP violation through an amplitude analysis of $$ D^0 \to K^+K^-\pi^+\pi^- $$ decays](https://link.springer.com/article/10.1007/JHEP02(2019)126) (2019).
