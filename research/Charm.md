@@ -34,7 +34,11 @@ Multibody hadronic decays of $$ D^0 $$ mesons provide a promising environment fo
 
 
 ## Bibliography
+
 [1] [Novel method for measuring charm-mixing parameters using multibody decays](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.012007) (2019).
+
 [2] [Measurement of the Mass Difference Between Neutral Charm-Meson Eigenstates](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.231802) (2019).
+
 [3] [Observation of the Mass Difference between Neutral Charm-Meson Eigenstates](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.111801) (2021).
+
 [4] [Search for CP violation using T-odd correlations in $$ D^0 \to K^+K^-\pi^+\pi^- $$ decays](https://doi.org/10.1007/JHEP10(2014)005) (2014).
