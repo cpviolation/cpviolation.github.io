@@ -14,10 +14,6 @@ I have been actively involved in the study of mesons containing charm quarks sin
 
 ## $$ D^0 $$ Oscillations and CP violation with $$ D^0 \to K^0_S h^+h^- $$ decays
 
-I am currently working on the measurement of the mixing and CP violation parameters in the decay $$ D^0 \to K^0_S h^+h^- $$, where $$ h $$ can be either a kaon or a pion. This decay is particularly interesting because it allows us to study both mixing and CP violation in a single decay channel. 
-I contributed to the development of the "bin-flip" analysis stategy [1], which is a novel approach to extract the mixing and CP violation parameters from an analysis of the data binned in the phase-space and decay time. The analysis is performed using $$ D^0 \to K^0_S π^+π^- $$ decays collected by the LHCb experiment at CERN during Run2 [2],[3].
-We are currently working on the analysis of Run3 data, which will further improve the precision of the measurements.
-
 I am currently working on the measurement of mixing and CP violation parameters in the decay $$ D^0 \to K^0_S h^+h^- $$, where $$ h $$ denotes either a kaon or a pion. This decay channel is particularly compelling, as it enables the simultaneous study of both mixing and CP violation phenomena within a single mode.
 
 I contributed to the development of the **"bin-flip"** analysis strategy [1], a novel method for extracting mixing and CP violation parameters through a time-dependent analysis of data binned in the Dalitz phase space. This approach has been applied to $$ D^0 \to K^0_S \pi^+\pi^- $$ decays collected by the LHCb experiment at CERN during Run 2 [2, 3], yielding competitive precision on the parameters of interest. We are currently extending this analysis to Run 3 data, which will allow for improved sensitivity due to the larger dataset and upgraded detector and trigger capabilities.
