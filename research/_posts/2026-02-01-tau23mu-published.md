@@ -2,9 +2,9 @@
 layout: post
 description: > 
   This feature release adds new social media icons for 2024 and makes dark mode available to everyone.
-image: 
+image:
   path: /assets/img/blog/2026/Tau23Mu_Limit.jpg
-  srcset: 
+  srcset:
     1920w: /assets/img/blog/2026/Tau23Mu_Limit.jpg
     960w:  /assets/img/blog/2026/Tau23Mu_Limit@0,5x.jpg
     480w:  /assets/img/blog/2026/Tau23Mu_Limit@0,25x.jpg
