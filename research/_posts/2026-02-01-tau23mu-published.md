@@ -18,5 +18,3 @@ sitemap: false
 The paper "Search for τ−→μ−μ+μ− decays at the LHCb experiment with Run 2 data" has been submitted to the archive and is currently under review.
 By using data collected by the LHCb experiment during Run 2, corresponding to 5.4 fb⁻¹ of integrated luminosity, we have searched for the lepton flavor violating decay of a tau lepton into three muons.
 Not finding any evidence for this decay, we have set an upper limit on the branching fraction of $$ \mathcal{B}(\tau\to\mu\mu\mu) < 1.9 (2.3) \times 10^{-8} $$ at 90% (95%) confidence level, which is competitive with the current best limits.
-
-![800x400](/assets/img/blog/2026/Tau23Mu_Limit.png "Branching fraction limit for τ−→μ−μ+μ− decays")
