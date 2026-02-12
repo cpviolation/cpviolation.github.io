@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Research
+title: News
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: research
+slug: news
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Updates on my research activities.
+  Updates on the latest news and developments.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
