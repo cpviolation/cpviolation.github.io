@@ -1,7 +1,7 @@
 ---
 layout: post
 description: > 
-  This feature release adds new social media icons for 2024 and makes dark mode available to everyone.
+  New limit on the branching fraction of $$ \tau\to\mu\mu\mu $$ is out!.
 image:
   path: /assets/img/blog/2026/Tau23Mu_Limit.jpg
   srcset:
