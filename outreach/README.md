@@ -4,7 +4,6 @@ title: Outreach
 description: >
   My outreach activity
 hide_description: true
-sitemap: false
 permalink: /outreach/
 ---
 

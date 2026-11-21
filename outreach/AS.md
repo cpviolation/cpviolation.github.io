@@ -4,7 +4,6 @@ title: Art & Science Across Italy
 description: >
   Art & Science outreach activity
 hide_description: true
-sitemap: false
 ---
 
 # Art & Science

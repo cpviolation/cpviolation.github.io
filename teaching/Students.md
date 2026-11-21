@@ -4,7 +4,6 @@ title: Students
 description: >
   Supervision of Students
 hide_description: true
-sitemap: false
 ---
 
 ## PhD Students

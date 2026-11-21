@@ -4,7 +4,6 @@ title: Charm Physics
 description: >
   Charm physics research activity
 hide_description: true
-sitemap: false
 ---
 
 # Charm

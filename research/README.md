@@ -4,7 +4,6 @@ title: Research
 description: >
   My research activity
 hide_description: true
-sitemap: false
 permalink: /research/
 ---
 

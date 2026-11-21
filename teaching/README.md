@@ -4,7 +4,6 @@ title: Teaching
 description: >
   My teaching assignments
 hide_description: true
-sitemap: false
 permalink: /teaching/
 ---
 

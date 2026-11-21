@@ -4,7 +4,6 @@ title: International Masterclasses for Particle Physics
 description: >
   International Masterclasses for Particle Physics outreach activity
 hide_description: true
-sitemap: false
 ---
 
 # International Masterclasses for Particle Physics

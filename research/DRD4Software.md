@@ -4,7 +4,6 @@ title: DRD4 Software
 description: >
   Research activity within the DRD4 Collaboration
 hide_description: true
-sitemap: false
 ---
 
 # DRD4 Software Working Group

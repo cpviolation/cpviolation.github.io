@@ -4,7 +4,6 @@ title: BaBar
 description: >
   Research activity at the BaBar experiment
 hide_description: true
-sitemap: false
 ---
 
 # BaBar
