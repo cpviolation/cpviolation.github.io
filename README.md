@@ -1,20 +1,25 @@
-# Hydejack Starter Kit
+# cpviolation.github.io
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Personal website of Maurizio Martinelli (LHCb, University of Milano-Bicocca),
+published at <https://cpviolation.github.io/>.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+Built with [Jekyll](https://jekyllrb.com) and the [Hydejack](https://hydejack.com/) theme,
+deployed automatically by GitHub Pages on every push to `master`.
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+## Structure
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+| Path | Content |
+|------|---------|
+| `research/`, `teaching/`, `outreach/` | Main sections (linked from the sidebar menu) |
+| `news/_posts/` | News posts, named `YYYY-MM-DD-title.md` |
+| `assets/img/blog/<year>/` | Post images (1920w, `@0,5x` and `@0,25x` versions) |
+| `_config.yml`, `_data/` | Site settings, author info, social links |
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## Running locally
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+Then open <http://localhost:4000/>.
