@@ -1,3 +1,8 @@
+---
+layout: plain
+sitemap: false
+---
+
 # Licenses
 
 ## Open Source

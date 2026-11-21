@@ -1,3 +1,8 @@
+---
+layout: plain
+sitemap: false
+---
+
 # PRO License
 
 * this list will be replaced by the table of contents
