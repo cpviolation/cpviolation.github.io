@@ -43,4 +43,4 @@ Each session closed with an open discussion, and the conclusion was unanimous: w
 Many thanks to all the speakers and participants, and to my fellow organisers Andrea Contu, Alessia Anelli and Lucas Falcao Ferreira.
 Slides for all the talks are available on the [Indico page](https://indico.cern.ch/event/1734907/timetable/).
 
-The BoostCharm project is funded by the Ministero dell'Università e della Ricerca through the PRINS2022LA35SY grant.
+The BoostCharm project is funded by the Ministero dell'Università e della Ricerca through the PRIN grant 2022LA35SY.
