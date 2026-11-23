@@ -8,7 +8,7 @@ hide_description: true
 
 ## PhD Students
 
-* [Anelli, Alessia]() --- Measurement of mixing and CP violation in $$ D^0 \to K^0_S\pi^+\pi^- $$ decays with 2024 Data and Performance studies of the RICH detectors in the Upgrade I and Upgrade II of LHCb (in progress, 2026).
+* [Anelli, Alessia]() --- Measurement of mixing and CP violation in $$ D^0 \to K^0_S\pi^+\pi^- $$ decays with 2024 Data and Performance studies of the RICH detectors in the Upgrade I and Upgrade II of LHCb (2026).
 * [Shields, Edwards Brendan](https://boa.unimib.it/handle/10281/419182) --- Measurement of charm mixing and CP violation parameter $$ y_{CP} $$ with $$ D^0\to K^0_SK^+K^- $$ decays at the LHCb detector (2023).
 * [Schubiger, Maxime](https://cds.cern.ch/record/2649231/files/CERN-THESIS-2018-267.pdf) --- Search for CP violation through an amplitude analysis of $$ D^0 \to K^+K^−\pi^+\pi^− $$ decays at LHCb (2018).
 
